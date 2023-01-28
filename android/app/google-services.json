@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "130131121011",
+    "project_id": "phat-menghor",
+    "storage_bucket": "phat-menghor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130131121011:android:673a54781748d1ccb92b06",
+        "android_client_info": {
+          "package_name": "com.example.ass1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130131121011-e84klvccof5f5n01pt0plejnrqe55f3t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7pSboErhjmZMrX6nRT4NV80Q8lDNFNBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130131121011-e84klvccof5f5n01pt0plejnrqe55f3t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
